@@ -1,6 +1,6 @@
-`Sastantua` was the most emotionally charged project of the 1337 Piscine. it has one super-long function full of for loops. it should be written into the norme.
+`Sastantua` was the most emotionally charged project of the 1337 Piscine. it has one super-long function full of for loops. &&it should be written into the norme.
 
-i wrote in two ways a recursive way and an itterative one.
+i wrote in two ways a recursive way and an iterative one.
 
 
 # Details
