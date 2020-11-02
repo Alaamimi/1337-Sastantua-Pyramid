@@ -1,5 +1,5 @@
 # Sastantua
-Sastantua was one og the most emotionally charged projects of the 1337 Piscine. it has one super-long function full of for loops, and it should be
+Sastantua was one of the most emotionally charged projects of the 1337 Piscine. it has one super-long function full of for loops, and it should be
 converted to While loops . Thats what the 42norme is all about.
 I ended up writing it in two ways, a recursive way and an iterative one.
 
