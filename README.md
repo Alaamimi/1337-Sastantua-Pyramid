@@ -1,7 +1,10 @@
-`Sastantua` was the most emotionally charged project of the 1337 Piscine. it has one super-long function full of for loops. &&it should be written into the norme.
+# Sastantua
+Sastantua was one og the most emotionally charged projects of the 1337 Piscine. it has one super-long function full of for loops, and it should be
+converted to While loops . Thats what the 42norme is all about.
+I ended up writing it in two ways, a recursive way and an iterative one.
 
-i wrote in two ways a recursive way and an iterative one.
-
+# Ressources:
+https://www.youtube.com/watch?v=VV_0NbJtYPU&list=PLaykjQfTBR07rH7GokObT1J13q9G8Q_Oe&ab_channel=FabienB
 
 # Details
 * Tier rows
@@ -15,7 +18,7 @@ i wrote in two ways a recursive way and an iterative one.
   
 | Tier | Tier rows | Door size | Tier growth |
 | ---- | --------- | --------- | ----------- |
-| 1    | 3         | 1         |
+| 1    | 3         | 1         | None
 | 2    | 4         | 1         | 2
 | 3    | 5         | 3         | 2
 | 4    | 6         | 3         | 3
